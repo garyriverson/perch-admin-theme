@@ -23,6 +23,13 @@ Please ignore the mess of a template.
 
 ![Screenshot of admin theme](https://github.com/garyriverson/perch-admin-theme/blob/master/screenshot.png)
 
+### Roadmap
+
+Plans for improvement include:
+- better organizing the theme's structure of styles
+- making use of SASS variables for colors 
+- improving consistency across theme
+
 
 
 
