@@ -17,9 +17,9 @@ This admin theme includes two files:
  - `font_awesome.css` *v 4.7.0, facilitates icons on some UI elements.*
 
 
-# Screenshots
+# Screenshot
 
-
+![Screenshot of admin theme](https://github.com/garyriverson/perch-admin-theme/blob/master/screenshot.png)
 
 
 
