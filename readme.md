@@ -19,6 +19,8 @@ This admin theme includes two files:
 
 # Screenshot
 
+Please ignore the mess of a template. 
+
 ![Screenshot of admin theme](https://github.com/garyriverson/perch-admin-theme/blob/master/screenshot.png)
 
 
