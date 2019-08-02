@@ -1,4 +1,4 @@
-# Perch Minimalist Admin Theme
+# Perch CMS Minimalist Admin Theme
 
 An admin theme for Perch CMS and Perch Runway that improves the editing experience for clients. It adds contrast, a bit more visual hierarchy, and a more modern feel to the admin UI. 
 
